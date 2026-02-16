@@ -61,7 +61,7 @@ export default function Services() {
         >
           <p className="text-[10px] uppercase tracking-[0.4em] text-ink/30 mb-4">Capacity</p>
           <p className="font-serif italic text-2xl text-ink leading-snug">
-            Strictly limited to 4 <br />brand partnerships per quarter.
+            100 to 200 reachouts <br /> per campaign.
           </p>
         </motion.div>
       </section>
