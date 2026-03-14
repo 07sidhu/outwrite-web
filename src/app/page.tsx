@@ -23,7 +23,7 @@ export default function Home() {
   };
 
   return (
-    <div className="max-w-screen-xl mx-auto px-6 overflow-hidden bg-paper">
+    <div className="max-w-screen-xl mx-auto px-6 py-8 overflow-hidden bg-paper">
       
       {/* 1. HERO SECTION - ASYMMETRICAL EDITORIAL */}
       <section className="min-h-[90vh] grid grid-cols-1 md:grid-cols-12 gap-8 items-center pt-20">
